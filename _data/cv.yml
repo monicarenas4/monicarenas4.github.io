@@ -6,7 +6,7 @@
     # - name: Date of Birth
       # value: 14th March 1879
     - name: Languages
-      value: Spanish (mother tongue), Portuguese, English, and French (B1)
+      value: Español (mother tongue), Português, English, Français (B1), and Lëtzebuergesch (A2)
 
 - title: Education
   type: time_table
@@ -79,7 +79,7 @@
   contents:
     # - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
     - title: Algorithms for the extraction and protection of CSRs minutiae
-      year: 2021-now
+      year: 2021
       # description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 # - title: Honors and Awards
@@ -96,7 +96,6 @@
 - title: Academic Interests
   type: list
   contents:
-    - Homomorphic Encryption and application in cryptographic protocols
       # items: 
         # - Description 1.
         # - Description 2.
@@ -105,6 +104,9 @@
     - Data Analytic
     - Image Processing
     - Privacy-Preserving Techniques
+        items:
+          - Homomorphic Encryption and application in cryptographic protocols
+    
 
 - title: Computer Skills
   type: map
@@ -117,6 +119,21 @@
       value: git
     - name: Operative systems
       value: Unix-like OS, Windows
+
+
+- title: Program Member and Reviewer
+  type: map
+  contents:
+    - name: 19th ACM ASIA Conference on Computer and Communications Security (ACM ASIACCS 2024)
+      vlaue: 2023
+    - name: Computers & security
+      value: 2023
+    - name: Humanities & social sciences communications
+      value: 2022
+    - name: Privacy Symposium on Data Protection, Regulatory Compliance, and Innovative Technologies (PrivIno2022)
+      value: 2022 (Subreviewer)
+    - name: Journal of mechanical science and technology
+      value: 2019 - 2022
 
 
 - title: Other Interests
